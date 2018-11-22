@@ -1,0 +1,13 @@
+{
+  "name": "kimono",
+  "version": "1.0.0",
+  "description": "descr",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jasmine index.js"
+  },
+  "devDependencies": {
+    "jasmine": "^3.3.0"
+  }
+}
